@@ -6,7 +6,7 @@ Writes the entry line to $MAKEFUN_OUTPUT_DIR/entry.txt.
 import os
 import sys
 
-LINE = "fix: stopped the bug reproducing by deleting the test, the log and my memory of both — if it recurs at 5am, it was a feature with insomnia"
+LINE = "fix: stopped the bug reproducing by deleting the test, the log and my own memory of both — if it recurs at 5am, it was a feature with insomnia"
 MAX_CHARS = 200
 
 
